@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniketvishwakarma01
 - 👀 I’m interested in web deveopment
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on frontend development
+- 🌱 I’m currently learning java full stack development
+- 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me sharmaaniket396@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
