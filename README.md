@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Aniket Vishwakarma from Kanpur.<br><br>- 🔭 🔧 Building End-to-End Web Applications with Java & Modern JS.<br>- 📚 I'm currently learning advanced Java concepts and integrating them into real-world projects.<br>- ⚡ In my free time i enjoy solving coding puzzles, playing chess, and exploring new tech stacks.</p>
+<p align="left">I'm Aniket Vishwakarma.<br><br>- 🔭 Building End-to-End Web Applications with Java & Modern JS.<br>- 📚 I'm currently learning advanced Java concepts and integrating them into real-world projects.<br>- ⚡ In my free time i enjoy solving coding puzzles, playing chess, and exploring new tech stacks.</p>
 
 ###
 
