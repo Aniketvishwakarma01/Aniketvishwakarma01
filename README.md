@@ -71,9 +71,7 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvishwakarma&layout=donut&theme=radical" alt="Aniket's Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvishwakarma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 
