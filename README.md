@@ -70,7 +70,11 @@
 
 ###
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aniketvishwakarma&show_icons=true&theme=tokyonight" alt="Aniket's GitHub Stats" /> </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvishwakarma&layout=donut-vertical&theme=tokyonight" alt="Top Langs" />
+  </a>
+</p>
 
 
 
