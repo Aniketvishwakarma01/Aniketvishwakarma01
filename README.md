@@ -19,9 +19,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aniketvishwakarma01&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 
 ###
 
