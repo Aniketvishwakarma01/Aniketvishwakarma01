@@ -71,9 +71,43 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketvishwakarma01&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats</title>
+</head>
+<body>
+    <div align="center">
+        <select id="themeSelect" onchange="updateTheme()">
+            <option value="radical">Radical</option>
+            <option value="tokyonight">Tokyo Night</option>
+            <option value="dark">Dark</option>
+        </select>
+        <select id="layoutSelect" onchange="updateLayout()">
+            <option value="donut">Donut</option>
+            <option value="donut-vertical">Donut Vertical</option>
+            <option value="compact">Compact</option>
+        </select>
+        <img id="statsImage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketvishwakarma01&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
+    </div>
+
+    <script>
+        function updateTheme() {
+            let theme = document.getElementById("themeSelect").value;
+            let layout = document.getElementById("layoutSelect").value;
+            document.getElementById("statsImage").src = `https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketvishwakarma01&layout=${layout}&theme=${theme}&hide_border=true`;
+        }
+
+        function updateLayout() {
+            let theme = document.getElementById("themeSelect").value;
+            let layout = document.getElementById("layoutSelect").value;
+            document.getElementById("statsImage").src = `https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketvishwakarma01&layout=${layout}&theme=${theme}&hide_border=true`;
+        }
+    </script>
+</body>
+</html>
 
 
 
