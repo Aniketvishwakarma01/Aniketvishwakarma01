@@ -71,8 +71,9 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketvishwakarma&theme=tokyonight&hide_border=false" alt="Aniket's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketvishwakarma&theme=tokyo-night&hide_border=true" alt="Aniket's GitHub Activity Graph"/>
 </p>
+
 
 
 ###
