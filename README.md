@@ -70,9 +70,8 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketvishwakarma&theme=tokyo-night&hide_border=true" alt="Aniket's GitHub Activity Graph"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aniketvishwakarma&show_icons=true&theme=tokyonight" alt="Aniket's GitHub Stats" /> </p>
+
 
 
 
